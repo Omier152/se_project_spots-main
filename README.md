@@ -17,8 +17,9 @@ JavaScript
 
 ### Github
 
-https://github.com/Omier152/se__project_spots_stage_4.git
+git@github.com:Omier152/se_project_spots-main.git
 
 ### Video
 
 
+https://drive.google.com/file/d/1zqaYogtA5wIMltAwrhDDcR4W-pygxfRM/view?usp=sharing
