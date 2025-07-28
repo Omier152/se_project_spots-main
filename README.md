@@ -16,8 +16,8 @@ Dev tools
 JavaScript
 
 ### Github
-
 git@github.com:Omier152/se_project_spots-main.git
+
 
 ### Video
 

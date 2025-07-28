@@ -1,3 +1,11 @@
+.card{
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction:column;
+  position:relative;
+}
+
+
 .card__image {
   height: 413px;
   width: 100%;
@@ -32,6 +40,24 @@
 
 .card__like-btn:hover {
   opacity: 100%;
+}
+
+.card__like-btn-active{
+  background-image: url(../images/Union.svg);}
+ 
+.card__like-btn-active:hover{
+opacity:0.4;
+}
+
+.card__delete-btn{
+  width: 32px;
+  height:32px;
+background-image: url(../images/Ellipse\ 3.svg);
+position:absolute;
+}
+
+.card__delete-btn:hover{
+  background-image: url(../images/State=Hover.svg);
 }
 
 @media screen and (max-width: 627px) {
