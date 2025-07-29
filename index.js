@@ -69,8 +69,7 @@ function getCardElement(data){
   const cardLikeBtn=cardElement.querySelector(".card__like-btn");
   cardLikeBtn.addEventListener("click", () => { 
     cardLikeBtn.classList.toggle("card__like-btn-active");
-    
-  }); 
+  });
 
   const cardDeleteBtn = cardElement.querySelector(".card__delete-btn");
   cardDeleteBtn.addEventListener("click", () => {
@@ -84,7 +83,6 @@ function getCardElement(data){
     openModal(previewModal);
   });
   //style the cardDeleteBtn
- 
   return cardElement;
 }
 

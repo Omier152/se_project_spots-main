@@ -1,4 +1,4 @@
-# Project 4: Spots
+# Project 3: Spots
 
 ## Description:
 
@@ -13,13 +13,11 @@ The project is fully functionally.
 .HTML
 .CSS
 Dev tools
-JavaScript
 
 ### Github
-git@github.com:Omier152/se_project_spots-main.git
 
+https://omier152.github.io/se_project_spots/
 
 ### Video
-
 
 https://drive.google.com/file/d/1zqaYogtA5wIMltAwrhDDcR4W-pygxfRM/view?usp=sharing

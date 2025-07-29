@@ -89,7 +89,6 @@ font-size: 20px;
 line-height: 100%;
 color: #212121;
 border:1px solid #21212166;
-box-sizing: border-box;;
 box-sizing: border-box;
 padding:12px;
 transition:border 0s linear 0.5s;
@@ -136,7 +135,7 @@ opacity: 0.8;
 
 .modal__caption{color:white;}
 
-@media screen and (max-width: 627px){
+@media screen and (max-width: 420px){
   .modal__close-type-preview{
     top:-48px;
     right:0;
